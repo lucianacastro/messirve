@@ -31,17 +31,14 @@ function Item(props) {
 
         <div className="productInfoContainer">
           <p className="productName">{name}</p>
-          <Price amount={price}/>
           <div className="descWrapper">
             {formatDesc.map((desc) => {
               return (
-                <p className="description">
-                  {desc}
-                  <br />
-                </p>
+                <div className="description" dangerouslySetInnerHTML={{ __html: desc }}></div>
               );
             })}
           </div>
+          <Price amount={price}/>
         </div>
       </div>
     </div>
