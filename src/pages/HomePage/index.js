@@ -117,7 +117,7 @@ function HomePage() {
                   </div>
                   <div className="cardDesc">
                     <p className="name">{product.name}</p>
-                    <Price className="homePrice"amount={product.price}/>
+                    <Price className="homePrice" amount={product.price}/>
                   </div>
                 </li>
               );
