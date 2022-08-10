@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/messirve/static/css/main.734d3c2f.css",
+    "main.js": "/messirve/static/js/main.679aa8f4.js",
+    "index.html": "/messirve/index.html",
+    "main.734d3c2f.css.map": "/messirve/static/css/main.734d3c2f.css.map",
+    "main.679aa8f4.js.map": "/messirve/static/js/main.679aa8f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734d3c2f.css",
+    "static/js/main.679aa8f4.js"
+  ]
+}
