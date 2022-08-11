@@ -531,5 +531,33 @@
     "is_new": false,
     "is_sold": false,
     "is_visible": true
+  },
+  {
+    "id": 40,
+    "name": "Heladera Frio Combinado Samsung",
+    "thumbnail": "/assets/heladera/1.png",
+    "description": "Heladera Frio Combinado Samsung RT38K5932SL Inoxidable 382 Lts.",
+    "price": 108000,
+    "images": [
+      "/assets/heladera/2.png",
+      "/assets/heladera/3.jpeg"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 41,
+    "name": "Aspiradora Electrolux Ingenio 1600W",
+    "thumbnail": "/assets/aspiradora/1.png",
+    "description": "Aspiradora Electrolux Ingenio 1600W",
+    "price": 6000,
+    "images": [
+      "/assets/aspiradora/2.png",
+      "/assets/aspiradora/3.jpeg"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
   }
 ]
