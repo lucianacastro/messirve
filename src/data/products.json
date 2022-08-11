@@ -4,7 +4,7 @@
     "name": "Poltrona Carol",
     "thumbnail": "/assets/poltrona/1.png",
     "description": "Poltrona Carol color gris - Estèe Deco",
-    "price": 22000,
+    "price": 18000,
     "images": [
       "/assets/poltrona/1.png",
       "/assets/poltrona/2.jpeg"
@@ -15,6 +15,20 @@
   },
   {
     "id": 1,
+    "name": "Juego de mesa + 4 sillas",
+    "thumbnail": "/assets/mesa/1.png",
+    "description": "Juego de mesa + 4 sillas Metro Cuadrado",
+    "price": 40000,
+    "images": [
+      "/assets/mesa/2.png",
+      "/assets/mesa/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 2,
     "name": "Sillón Goral Deco",
     "thumbnail": "/assets/sillon/1.png",
     "description": "Sillón - GORAL Deco - DALMA Brazo 12cm 2.40x0.95m. Dos módulos pata clara 10cm. Tela 300 piedra (gris claro) + 3 almohadones.",
@@ -29,7 +43,7 @@
     "is_visible": true
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Smart TV 75\"",
     "thumbnail": "/assets/tv/1.png",
     "description": "Smart TV Samsung 75 pulgadas 4K Ultra HD<ul><li>Modelo <code>UN75RU7100GCZB</code></li><li><a target='_blank' href='https://www.samsung.com/us/televisions-home-theater/tvs/uhd-tvs/75--class-ru7100-smart-4k-uhd-tv--2019--un75ru7100fxza/'>Ver prestaciones</a></li><li><a target='_blank' href='https://www.samsung.com/ar/support/model/UN75RU7100GCZB/'>Manuales online</a></li></ul>",
@@ -44,23 +58,23 @@
     "is_visible": true
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Barra De Sonido",
     "thumbnail": "/assets/barra/1.png",
     "description": "Barra De Sonido Samsung T450 200w Subwoofer Soundbar Premium - AR$36000",
     "price": 36000,
     "images": [
-      "/assets/barra/1.png"
+      "/assets/barra/1.png","/assets/barra/2.png"
     ],
     "is_new": false,
     "is_sold": false,
     "is_visible": true
   },
   {
-    "id": 4,
-    "name": "Bicicleta Mtb Olmo R26 + Casco",
+    "id": 5,
+    "name": "Bicicleta Mtb Olmo R26 + Casco + Inflador de mano",
     "thumbnail": "/assets/bici/Screenshot 2022-08-06 at 15.10.27.png",
-    "description": "Bicicleta Mtb Olmo R26 Wish 265 Dama Mujer + Casco Fast Mtb Ciclismo Regulable",
+    "description": "Bicicleta Mtb Olmo R26 Wish 265 Dama Mujer + Casco Fast Mtb Ciclismo Regulable + Inflador de mano",
     "price": 40000,
     "images": [
       "/assets/bici/Screenshot 2022-08-06 at 15.10.27.png",
@@ -74,7 +88,7 @@
     "is_visible": true
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Puff - Crema",
     "thumbnail": "/assets/puff-crema/Screenshot 2022-08-06 at 15.54.49.png",
     "description": "Puff peluche color crema",
@@ -88,7 +102,7 @@
     "is_visible": true
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Puff - Gris Oscuro",
     "thumbnail": "/assets/puff-gris/Screenshot 2022-08-06 at 15.59.33.png",
     "description": "Puff peluche color gris oscuro",
@@ -102,7 +116,7 @@
     "is_visible": true
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Maceta cerámica 8x7cm - blanca mate",
     "thumbnail": "/assets/maceta1/Screenshot 2022-08-06 at 15.28.50.png",
     "description": "Maceta cerámica 8x7cm - blanca mate",
@@ -115,7 +129,7 @@
     "is_visible": true
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Maceta Tetris + Fitonia - blanco",
     "thumbnail": "/assets/maceta2/Screenshot 2022-08-06 at 15.32.51.png",
     "description": "Maceta Tetris cerámica 9,5x9,5cm - blanco Roma Objetos más planta Fitonia",
@@ -128,7 +142,7 @@
     "is_visible": true
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Maceta cerámica + Potus",
     "thumbnail": "/assets/maceta3/Screenshot 2022-08-06 at 15.30.26.png",
     "description": "Maceta cerámica 10,5x8,5cm - amarillo pastel + planta Potus",
@@ -141,7 +155,7 @@
     "is_visible": true
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Maceta Florita + Sansevieria cerámica 10,5x8,5cm - rosa pastel",
     "thumbnail": "/assets/maceta4/Screenshot 2022-08-06 at 15.26.01.png",
     "description": "Maceta Florita cerámica 10,5x8,5cm - rosa pastel  + planta Sansevieria",
@@ -154,7 +168,7 @@
     "is_visible": true
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Maceta Florita + Sansevieria cerámica 10,5x8,5cm - turquesa pastel",
     "thumbnail": "/assets/maceta5/Screenshot 2022-08-06 at 15.27.34.png",
     "description": "Maceta Florita cerámica 10,5x8,5cm - turquesa pastel  + planta Sansevieria",
@@ -167,7 +181,7 @@
     "is_visible": true
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Maceta Tetris + Fitonia - celeste pastel claro",
     "thumbnail": "/assets/maceta6/Screenshot 2022-08-06 at 15.31.40.png",
     "description": "Maceta Tetris cerámica 12x9,5cm - celeste pastel claro Roma Objetos + planta Fitonia",
@@ -180,7 +194,7 @@
     "is_visible": true
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Maceta Tetris + Fitonia cerámica 12x10cm - blanca",
     "thumbnail": "/assets/maceta7/Screenshot 2022-08-06 at 15.23.38.png",
     "description": "Maceta Tetris cerámica 12x10cm - blanca Roma Objetos + planta Fitonia",
@@ -193,20 +207,20 @@
     "is_visible": true
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "Maceta Flora + Dieffenbachia 16x13cm - blanca",
     "thumbnail": "/assets/maceta8/Screenshot 2022-08-06 at 15.44.53.png",
     "description": "Maceta Flora cerámica 16x13cm - blanca Casa Ceviche + planta Dieffenbachia",
     "price": 2500,
     "images": [
-      "/assets/maceta8/Screenshot 2022-08-06 at 15.45.02.png"
+      "/assets/maceta8/Screenshot 2022-08-06 at 15.45.02.png", "/assets/maceta8/Captura de Pantalla 2022-08-10 a la(s) 21.00.49.png"
     ],
     "is_new": false,
     "is_sold": false,
     "is_visible": true
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Maceta Bohemia + Chamaedorea cerámica 19,5x20cm - blanco mate",
     "thumbnail": "/assets/maceta9/Screenshot 2022-08-06 at 15.39.12.png",
     "description": "Maceta Bohemia cerámica 19,5x20cm - blanco Patio mate más planta Chamaedorea",
@@ -219,7 +233,7 @@
     "is_visible": true
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Maceta Carrousel + Potus",
     "thumbnail": "/assets/maceta10/Screenshot 2022-08-06 at 15.35.14.png",
     "description": "Maceta Carrousel cerámica grande  19x11cm - blanca Roma Objetos + planta Potus",
@@ -233,28 +247,13 @@
     "is_visible": true
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "Maceta Flora XL + Monstera cerámica 23x18cm - blanca",
     "thumbnail": "/assets/maceta11/Screenshot 2022-08-06 at 15.46.15.png",
     "description": "Maceta Flora XL cerámica 23x18cm - blanca Casa Ceviche + planta Monstera",
     "price": 3500,
     "images": [
-      "/assets/maceta11/Screenshot 2022-08-06 at 15.46.23.png"
-    ],
-    "is_new": false,
-    "is_sold": false,
-    "is_visible": true
-  },
-  {
-    "id": 18,
-    "name": "Maceta Venecia + Philodendron cerámica 25x22cm - blanca",
-    "thumbnail": "/assets/maceta12/Screenshot 2022-08-06 at 15.47.37.png",
-    "description": "Maceta Venecia cerámica grande 25x22cm - blanca + planta Philodendron",
-    "price": 4250,
-    "images": [
-      "/assets/maceta12/Screenshot 2022-08-06 at 15.47.46.png",
-      "/assets/maceta12/Screenshot 2022-08-06 at 15.48.10.png",
-      "/assets/maceta12/Screenshot 2022-08-06 at 15.48.17.png"
+      "/assets/maceta11/Screenshot 2022-08-06 at 15.46.23.png", "/assets/maceta11/Captura de Pantalla 2022-08-10.png"
     ],
     "is_new": false,
     "is_sold": false,
@@ -262,6 +261,19 @@
   },
   {
     "id": 19,
+    "name": "Maceta Venecia + Philodendron cerámica 25x22cm - blanca",
+    "thumbnail": "/assets/maceta12/Screenshot 2022-08-06 at 15.47.37.png",
+    "description": "Maceta Venecia cerámica grande 25x22cm - blanca + planta Philodendron",
+    "price": 4250,
+    "images": [
+      "/assets/maceta12/Screenshot 2022-08-06 at 15.47.46.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 20,
     "name": "Maceta grande fibra de vidrio c/acabado plástico",
     "thumbnail": "/assets/maceta13/Screenshot 2022-08-06 at 15.42.45.png",
     "description": "Maceta grande fibra de vidrio c/acabado plástico + bandeja plástica 33x30cm - blanca",
@@ -274,13 +286,247 @@
     "is_visible": true
   },
   {
-    "id": 20,
+    "id": 21,
     "name": "Maceta Cleo 2 grande con pie + Lirio de la Paz",
     "thumbnail": "/assets/maceta14/Screenshot 2022-08-06 at 15.50.50.png",
     "description": "Maceta grande fibra de vidrio c/acabado plástico 28x24cm blanca + pie de madera 50cm + planta + Lirio de la Paz cerámica (Spathiphyllum)",
-    "price": 5500,
+    "price": 5000,
     "images": [
       "/assets/maceta14/Screenshot 2022-08-06 at 15.50.59.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 22,
+    "name": "Maceta Florita + Sansevieria cerámica 10,5x8,5cm - gris",
+    "thumbnail": "/assets/maceta15/15.png",
+    "description": "Maceta Florita cerámica 10,5x8,5cm - gris  + planta Sansevieria",
+    "price": 1500,
+    "images": [
+      "/assets/maceta15/15-2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 23,
+    "name": "Maceta Venecia + Lirio de la Paz cerámica 25x22cm - blanca",
+    "thumbnail": "/assets/maceta16/Captura de Pantalla 2022-08-10 a la(s) 20.47.41.png",
+    "description": "Maceta Venecia cerámica grande 25x22cm - blanca + planta Lirio de la Paz",
+    "price": 4250,
+    "images": [
+      "/assets/maceta16/Captura de Pantalla 2022-08-10 a la(s) 20.47.57.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 24,
+    "name": "Maceta Bohemia + Chamaedorea cerámica 19,5x20cm - blanco mate",
+    "thumbnail": "/assets/maceta17/Captura de Pantalla 2022-08-10 a la(s) 20.53.56.png",
+    "description": "Maceta Bohemia cerámica 19,5x20cm - blanco Patio mate más planta Chamaedorea",
+    "price": 3700,
+    "images": [
+      "/assets/maceta17/Captura de Pantalla 2022-08-10 a la(s) 20.54.10.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 25,
+    "name": "Lámpara escritorio nórdica",
+    "thumbnail": "/assets/lamparaEscritorio/Captura de Pantalla 2022-08-10 a la(s) 21.14.25.png",
+    "description": "Lámpara escritorio nórdica + foco. Material: madera Paraíso y detalles en metal. Altura 33cm",
+    "price": 4500,
+    "images": [
+      "/assets/lamparaEscritorio/Captura de Pantalla 2022-08-10 a la(s) 21.14.52.png","/assets/lamparaEscritorio/Captura de Pantalla 2022-08-10 a la(s) 21.14.37.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 26,
+    "name": "Cuadro abstracto pintado a mano 120x50cm",
+    "thumbnail": "/assets/cuadro/1.png",
+    "description": "Cuadro abstracto pintado a mano super texturado 120x50cm. Pazos Arte",
+    "price": 6000,
+    "images": [
+      "/assets/cuadro/1.png", "/assets/cuadro/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 27,
+    "name": "Cuadro Poster Bauhaus 1923 50x70cm en bastidor",
+    "thumbnail": "/assets/cuadro2/1.png",
+    "description": "Cuadro Poster Bauhaus 1923 50x70cm en bastidor",
+    "price": 3000,
+    "images": [
+      "/assets/cuadro2/1.png", "/assets/cuadro/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 28,
+    "name": "Mini trump MIR Fitness",
+    "thumbnail": "/assets/miniTrump/1.png",
+    "description": "Minitramp Con Funda – 1m. De Superficie – 80cm. De Salto. Muy poco uso",
+    "price": 11000,
+    "images": [
+      "/assets/miniTrump/1.png", "/assets/miniTrump/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 29,
+    "name": "Lámpara colgante techo + 3 lámparitas",
+    "thumbnail": "/assets/lamparaDiamante/1.png",
+    "description": "Lámpara colgante techo hierro diamante estilo industrial + 3 lamparitas decorativas",
+    "price": 7500,
+    "images": [
+      "/assets/lamparaDiamante/1.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 30,
+    "name": "Nórdica Colgante + foco",
+    "thumbnail": "/assets/lamparaTecho/1.png",
+    "description": "Lampara Nórdica Colgante Led 37cm Blanca Madera Mym Home",
+    "price": 4000,
+    "images": [
+      "/assets/lamparaTecho/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 31,
+    "name": "Lámpara pie + foco",
+    "thumbnail": "/assets/lamparaPie/1.png",
+    "description": "Lampara Pie",
+    "price": 15000,
+    "images": [
+      "/assets/lamparaPie/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 32,
+    "name": "3 platos playos + 3 platos hondos + 3 platos playos medianos",
+    "thumbnail": "/assets/vajilla/1.png",
+    "description": "3 platos playos + 3 platos hondos + 3 platos playos medianos blancos",
+    "price": 4000,
+    "images": [
+      "/assets/vajilla/2.png", "/assets/vajilla/3.png", "/assets/vajilla/4.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 33,
+    "name": "Juego de 4 tazas para café con plato",
+    "thumbnail": "/assets/tazas/1.png",
+    "description": "Juego de 4 tazas para café con plato color blanco",
+    "price": 2500,
+    "images": [
+      "/assets/tazas/2.png", "/assets/tazas/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 34,
+    "name": "Vasos copones x 10 unidades",
+    "thumbnail": "/assets/vasos/1.png",
+    "description": "Vasos copones x 10 unidades",
+    "price": 1200,
+    "images": [
+      "/assets/vasos/2.png", "/assets/vasos/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 35,
+    "name": "Juego de 4 compoteras + 2 platos postre + 1 fuente ovalada",
+    "thumbnail": "/assets/compoteras/1.png",
+    "description": "Juego de 4 compoteras + 4 platos postre + fuente ovalada",
+    "price": 2500,
+    "images": [
+      "/assets/compoteras/2.png", "/assets/compoteras/3.png", "/assets/compoteras/4.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 36,
+    "name": "Florero vidrio Morph",
+    "thumbnail": "/assets/florero/1.png",
+    "description": "Florero vidrio Morph com corazones",
+    "price": 700,
+    "images": [
+      "/assets/florero/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 37,
+    "name": "Reloj de pared",
+    "thumbnail": "/assets/reloj/1.png",
+    "description": "Reloj de pared",
+    "price": 1500,
+    "images": [
+      "/assets/reloj/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 38,
+    "name": "Copas x 2",
+    "thumbnail": "/assets/copas/1.png",
+    "description": "Copas de vidrio x 2",
+    "price": 500,
+    "images": [
+      "/assets/copas/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 39,
+    "name": "Juego de cazuelas porcelana x 3",
+    "thumbnail": "/assets/cazuelas/1.png",
+    "description": "Juego de cazuelas porcelana x 3",
+    "price": 5000,
+    "images": [
+      "/assets/cazuelas/2.png"
     ],
     "is_new": false,
     "is_sold": false,
