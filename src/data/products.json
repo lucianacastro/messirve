@@ -339,6 +339,32 @@
   },
   {
     "id": 25,
+    "name": "Potus hydro",
+    "thumbnail": "/assets/potus/1.png",
+    "description": "Potus hydro",
+    "price": 1500,
+    "images": [
+      "/assets/potus/3.png", "/assets/potus/2.png", "/assets/potus/4.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 26,
+    "name": "Potus maceta taza",
+    "thumbnail": "/assets/macetaTaza/1.png",
+    "description": "Potus maceta taza",
+    "price": 1200,
+    "images": [
+      "/assets/macetaTaza/2.png", "/assets/macetaTaza/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 27,
     "name": "Lámpara escritorio nórdica",
     "thumbnail": "/assets/lamparaEscritorio/Captura de Pantalla 2022-08-10 a la(s) 21.14.25.png",
     "description": "Lámpara escritorio nórdica + foco. Material: madera Paraíso y detalles en metal. Altura 33cm",
@@ -351,7 +377,7 @@
     "is_visible": true
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Cuadro abstracto pintado a mano 120x50cm",
     "thumbnail": "/assets/cuadro/1.png",
     "description": "Cuadro abstracto pintado a mano super texturado 120x50cm. Pazos Arte",
@@ -364,7 +390,7 @@
     "is_visible": true
   },
   {
-    "id": 27,
+    "id": 29,
     "name": "Cuadro Poster Bauhaus 1923 50x70cm en bastidor",
     "thumbnail": "/assets/cuadro2/1.png",
     "description": "Cuadro Poster Bauhaus 1923 50x70cm en bastidor",
@@ -377,7 +403,7 @@
     "is_visible": true
   },
   {
-    "id": 28,
+    "id": 30,
     "name": "Mini trump MIR Fitness",
     "thumbnail": "/assets/miniTrump/1.png",
     "description": "Minitramp Con Funda – 1m. De Superficie – 80cm. De Salto. Muy poco uso",
@@ -390,7 +416,7 @@
     "is_visible": true
   },
   {
-    "id": 29,
+    "id": 31,
     "name": "Lámpara colgante techo + 3 lámparitas",
     "thumbnail": "/assets/lamparaDiamante/1.png",
     "description": "Lámpara colgante techo hierro diamante estilo industrial + 3 lamparitas decorativas",
@@ -403,7 +429,7 @@
     "is_visible": true
   },
   {
-    "id": 30,
+    "id": 32,
     "name": "Nórdica Colgante + foco",
     "thumbnail": "/assets/lamparaTecho/1.png",
     "description": "Lampara Nórdica Colgante Led 37cm Blanca Madera Mym Home",
@@ -416,7 +442,7 @@
     "is_visible": true
   },
   {
-    "id": 31,
+    "id": 33,
     "name": "Lámpara pie + foco",
     "thumbnail": "/assets/lamparaPie/1.png",
     "description": "Lampara Pie",
@@ -429,7 +455,7 @@
     "is_visible": true
   },
   {
-    "id": 32,
+    "id": 34,
     "name": "3 platos playos + 3 platos hondos + 3 platos playos medianos",
     "thumbnail": "/assets/vajilla/1.png",
     "description": "3 platos playos + 3 platos hondos + 3 platos playos medianos blancos",
@@ -442,20 +468,20 @@
     "is_visible": true
   },
   {
-    "id": 33,
+    "id": 35,
     "name": "Juego de 4 tazas para café con plato",
     "thumbnail": "/assets/tazas/1.png",
     "description": "Juego de 4 tazas para café con plato color blanco",
     "price": 2500,
     "images": [
-      "/assets/tazas/2.png", "/assets/tazas/3.png"
+      "/assets/tazas/2.png", "/assets/tazas/3.png", "/assets/tazas/4.png"
     ],
     "is_new": false,
     "is_sold": false,
     "is_visible": true
   },
   {
-    "id": 34,
+    "id": 36,
     "name": "Vasos copones x 10 unidades",
     "thumbnail": "/assets/vasos/1.png",
     "description": "Vasos copones x 10 unidades",
@@ -468,7 +494,7 @@
     "is_visible": true
   },
   {
-    "id": 35,
+    "id": 37,
     "name": "Juego de 4 compoteras + 2 platos postre + 1 fuente ovalada",
     "thumbnail": "/assets/compoteras/1.png",
     "description": "Juego de 4 compoteras + 4 platos postre + fuente ovalada",
@@ -481,20 +507,20 @@
     "is_visible": true
   },
   {
-    "id": 36,
+    "id": 38,
     "name": "Florero vidrio Morph",
     "thumbnail": "/assets/florero/1.png",
     "description": "Florero vidrio Morph com corazones",
-    "price": 700,
+    "price": 750,
     "images": [
-      "/assets/florero/2.png"
+      "/assets/florero/2.png", "/assets/florero/3.png"
     ],
     "is_new": false,
     "is_sold": false,
     "is_visible": true
   },
   {
-    "id": 37,
+    "id": 39,
     "name": "Reloj de pared",
     "thumbnail": "/assets/reloj/1.png",
     "description": "Reloj de pared",
@@ -507,7 +533,7 @@
     "is_visible": true
   },
   {
-    "id": 38,
+    "id": 40,
     "name": "Copas x 2",
     "thumbnail": "/assets/copas/1.png",
     "description": "Copas de vidrio x 2",
@@ -520,7 +546,7 @@
     "is_visible": true
   },
   {
-    "id": 39,
+    "id": 41,
     "name": "Juego de cazuelas porcelana x 3",
     "thumbnail": "/assets/cazuelas/1.png",
     "description": "Juego de cazuelas porcelana x 3",
@@ -533,7 +559,7 @@
     "is_visible": true
   },
   {
-    "id": 40,
+    "id": 42,
     "name": "Heladera Frio Combinado Samsung",
     "thumbnail": "/assets/heladera/1.png",
     "description": "Heladera Frio Combinado Samsung RT38K5932SL Inoxidable 382 Lts.",
@@ -547,7 +573,7 @@
     "is_visible": true
   },
   {
-    "id": 41,
+    "id": 43,
     "name": "Aspiradora Electrolux Ingenio 1600W",
     "thumbnail": "/assets/aspiradora/1.png",
     "description": "Aspiradora Electrolux Ingenio 1600W",
@@ -555,6 +581,58 @@
     "images": [
       "/assets/aspiradora/2.png",
       "/assets/aspiradora/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 44,
+    "name": "Vasos Pasabahce x 6 unidades copones grandes",
+    "thumbnail": "/assets/vasos2/1.png",
+    "description": "Vasos copones marca Pasabahce  x 6 unidades grandes 570 cc",
+    "price": 1500,
+    "images": [
+      "/assets/vasos2/2.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 45,
+    "name": "Tostadora Atma To8022sse",
+    "thumbnail": "/assets/tostadora/1.png",
+    "description": "Tostadora Atma To8022sse. Capacidad 2 rebanadas. Función descongelar, calentar y cancelar. Base antideslizante. Enrolla cable. Luz roja indicadora",
+    "price": 5000,
+    "images": [
+      "/assets/tostadora/2.png","/assets/tostadora/3.png","/assets/tostadora/4.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 46,
+    "name": "Balanza de cocina digital Electronic SF-400",
+    "thumbnail": "/assets/balanzaCocina/1.png",
+    "description": "Balanza de cocina digital Electronic SF-400 blanca. Pesa hasta 10kg",
+    "price": 600,
+    "images": [
+      "/assets/balanzaCocina/2.png","/assets/balanzaCocina/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 47,
+    "name": "Cesto de basura pequeño negro",
+    "thumbnail": "/assets/cesto/1.png",
+    "description": "Cesto de basura pequeño acero pintado negro. Apertura Con Pedal. 25cm de alto",
+    "price": 2000,
+    "images": [
+      "/assets/cesto/2.png","/assets/cesto/3.png"
     ],
     "is_new": false,
     "is_sold": false,
