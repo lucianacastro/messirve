@@ -590,13 +590,13 @@
     "id": 44,
     "name": "Vasos Pasabahce x 6 unidades copones grandes",
     "thumbnail": "/assets/vasos2/1.png",
-    "description": "Vasos copones marca Pasabahce  x 6 unidades grandes 570 cc",
+    "description": "VENDIDO a Pame amiga Alita. Vasos copones marca Pasabahce  x 6 unidades grandes 570 cc",
     "price": 1500,
     "images": [
       "/assets/vasos2/2.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
