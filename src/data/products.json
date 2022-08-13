@@ -616,13 +616,13 @@
     "id": 46,
     "name": "Balanza de cocina digital Electronic SF-400",
     "thumbnail": "/assets/balanzaCocina/1.png",
-    "description": "Balanza de cocina digital Electronic SF-400 blanca. Pesa hasta 10kg",
+    "description": "VENDIDA Nico P. Balanza de cocina digital Electronic SF-400 blanca. Pesa hasta 10kg",
     "price": 600,
     "images": [
       "/assets/balanzaCocina/2.png","/assets/balanzaCocina/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
