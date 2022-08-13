@@ -609,7 +609,7 @@
       "/assets/tostadora/2.png","/assets/tostadora/3.png","/assets/tostadora/4.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -635,7 +635,7 @@
       "/assets/cesto/2.png","/assets/cesto/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   }
 ]
