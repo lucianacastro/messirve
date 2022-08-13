@@ -183,13 +183,15 @@ $laptop-breakpoint: 769px;
 }
 
 .sold {
-  border: solid 1px rgb(180, 5, 5);
-  color: rgb(180, 5, 5);
-  background-color: rgba(255, 255, 255, 0.345);
+  color: rgb(255 255 255 / 75%);
+  background-color: rgb(0 0 0 / 54%);
   width: 17rem;
   position: absolute;
   text-align: center;
   border-radius: 0.1rem;
+  padding: 0.5em;
+  font-weight: 700;
+  transform: rotate(-12deg) skew(-12deg) scale(1.02);
 }
 
 .imageContainer {
