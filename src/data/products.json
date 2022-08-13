@@ -164,7 +164,7 @@
       "/assets/maceta4/Screenshot 2022-08-06 at 15.26.13.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -177,7 +177,7 @@
       "/assets/maceta5/Screenshot 2022-08-06 at 15.27.44.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -308,7 +308,7 @@
       "/assets/maceta15/15-2.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
