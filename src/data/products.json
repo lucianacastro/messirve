@@ -74,7 +74,7 @@
     "id": 5,
     "name": "Bicicleta Mtb Olmo R26 + Casco + Inflador de mano",
     "thumbnail": "/assets/bici/Screenshot 2022-08-06 at 15.10.27.png",
-    "description": "Bicicleta Mtb Olmo R26 Wish 265 Dama Mujer + Casco Fast Mtb Ciclismo Regulable + Inflador de mano",
+    "description": "VENDIDA a Alita. Bicicleta Mtb Olmo R26 Wish 265 Dama Mujer + Casco Fast Mtb Ciclismo Regulable + Inflador de mano",
     "price": 40000,
     "images": [
       "/assets/bici/Screenshot 2022-08-06 at 15.10.27.png",
@@ -84,7 +84,7 @@
       "/assets/bici/104264.jpeg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -132,13 +132,13 @@
     "id": 9,
     "name": "Maceta Tetris + Fitonia - blanco",
     "thumbnail": "/assets/maceta2/Screenshot 2022-08-06 at 15.32.51.png",
-    "description": "Maceta Tetris cerámica 9,5x9,5cm - blanco Roma Objetos más planta Fitonia",
+    "description": "VENDIDA a Gonza I. Maceta Tetris cerámica 9,5x9,5cm - blanco Roma Objetos más planta Fitonia",
     "price": 2500,
     "images": [
       "/assets/maceta2/Screenshot 2022-08-06 at 15.33.05.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -236,14 +236,14 @@
     "id": 17,
     "name": "Maceta Carrousel + Potus",
     "thumbnail": "/assets/maceta10/Screenshot 2022-08-06 at 15.35.14.png",
-    "description": "Maceta Carrousel cerámica grande  19x11cm - blanca Roma Objetos + planta Potus",
+    "description": "VENDIDA a Gonza I. Maceta Carrousel cerámica grande  19x11cm - blanca Roma Objetos + planta Potus",
     "price": 3000,
     "images": [
       "/assets/maceta10/Screenshot 2022-08-06 at 15.35.28.png",
       "/assets/maceta10/Screenshot 2022-08-06 at 15.35.42.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -354,13 +354,13 @@
     "id": 26,
     "name": "Potus maceta taza",
     "thumbnail": "/assets/macetaTaza/1.png",
-    "description": "Potus maceta taza",
+    "description": "VENDIDA a Gonza Iglesias. Potus maceta taza",
     "price": 1200,
     "images": [
       "/assets/macetaTaza/2.png", "/assets/macetaTaza/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -445,13 +445,13 @@
     "id": 33,
     "name": "Lámpara pie + foco",
     "thumbnail": "/assets/lamparaPie/1.png",
-    "description": "Lampara Pie",
+    "description": "Lampara Pie. Vendida a Fran Prince",
     "price": 15000,
     "images": [
       "/assets/lamparaPie/2.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -576,14 +576,14 @@
     "id": 43,
     "name": "Aspiradora Electrolux Ingenio 1600W",
     "thumbnail": "/assets/aspiradora/1.png",
-    "description": "Aspiradora Electrolux Ingenio 1600W",
+    "description": "VENDIDA a Sil amiga Alita. Aspiradora Electrolux Ingenio 1600W",
     "price": 6000,
     "images": [
       "/assets/aspiradora/2.png",
       "/assets/aspiradora/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
