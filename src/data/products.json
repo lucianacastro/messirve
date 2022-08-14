@@ -10,7 +10,7 @@
       "/assets/poltrona/2.jpeg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -39,7 +39,7 @@
       "/assets/sillon/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -54,7 +54,7 @@
       "/assets/tv/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
