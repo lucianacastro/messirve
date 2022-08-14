@@ -556,7 +556,7 @@
     ],
     "is_new": false,
     "is_sold": false,
-    "is_visible": true
+    "is_visible": false
   },
   {
     "id": 42,
