@@ -67,7 +67,7 @@
       "/assets/barra/1.png","/assets/barra/2.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
