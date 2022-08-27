@@ -373,7 +373,7 @@
       "/assets/lamparaEscritorio/Captura de Pantalla 2022-08-10 a la(s) 21.14.52.png","/assets/lamparaEscritorio/Captura de Pantalla 2022-08-10 a la(s) 21.14.37.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -464,7 +464,7 @@
       "/assets/vajilla/2.png", "/assets/vajilla/3.png", "/assets/vajilla/4.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
