@@ -747,7 +747,7 @@
     "name": "Cortina de baño Ibiza + ganchos",
     "thumbnail": "/assets/ibiza/1.png",
     "description": "Cortina de baño Ibiza crudo y gris con ojalillos color plata + ganmchos. 100% gasa de algodon con efecto arrugado",
-    "price": 3500,
+    "price": 4000,
     "images": [
       "/assets/ibiza/1.png"
     ],
@@ -760,7 +760,7 @@
     "name": "Cortina de baño Gibraltar + ganchos",
     "thumbnail": "/assets/gibraltar/1.png",
     "description": "Cortina de baño Gibraltar crudo con ojalillos color negro + ganchos. 100% gasa de algodon con efecto arrugado",
-    "price": 3500,
+    "price": 4000,
     "images": [
       "/assets/gibraltar/1.png"
     ],
@@ -770,6 +770,19 @@
   },
   {
     "id": 58,
+    "name": "Cortina de baño borlas crudo",
+    "thumbnail": "/assets/borlas/1.png",
+    "description": "Cortina de baño con borlas crudo ",
+    "price": 3000,
+    "images": [
+      "/assets/borlas/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 59,
     "name": "Cepillo Gama secador modelador alisador",
     "thumbnail": "/assets/cepillo/1.png",
     "description": "Cepillo Gama Secador Modelador Rizador Alisador Turbo Ionico",
@@ -782,7 +795,7 @@
     "is_visible": true
   }, 
   {
-    "id": 59,
+    "id": 60,
     "name": "Planchita Babyliss Pro",
     "thumbnail": "/assets/planchita/1.png",
     "description": "Planchita Babyliss Pro EP THECNO (PLACA 25X90 MM) BAB2654EPE",
@@ -795,7 +808,7 @@
     "is_visible": true
   },
   {
-    "id": 60,
+    "id": 61,
     "name": "Pava eléctrica inoxidable Nex",
     "thumbnail": "/assets/pava/1.png",
     "description": "Pava eléctrica inoxidable Nex",
@@ -808,7 +821,7 @@
     "is_visible": true
   },
   {
-    "id": 61,
+    "id": 62,
     "name": "Molinillo de café Nex",
     "thumbnail": "/assets/molinillo/1.png",
     "description": "Molinillo café inoxidable Nex",
@@ -821,7 +834,7 @@
     "is_visible": true
   },
   {
-    "id": 62,
+    "id": 63,
     "name": "Maceta Osito",
     "thumbnail": "/assets/macetaOsito/1.png",
     "description": "Molinillo café inoxidable Nex",
@@ -834,7 +847,7 @@
     "is_visible": true
   },
   {
-    "id": 63,
+    "id": 64,
     "name": "Maceta Gatito",
     "thumbnail": "/assets/macetaGatito/1.png",
     "description": "Molinillo café inoxidable Nex",
@@ -847,7 +860,7 @@
     "is_visible": true
   },
   {
-    "id": 64,
+    "id": 65,
     "name": "Vela Maceta",
     "thumbnail": "/assets/velaMaceta/1.png",
     "description": "Vela Maceta nueva, no se prendió nunca. Tiene un perfume muy lindo! Te aromatiza el ambiente donde la pongas.",
@@ -860,7 +873,7 @@
     "is_visible": true
   },
   {
-    "id": 65,
+    "id": 66,
     "name": "Alfombra 130cmx70cm",
     "thumbnail": "/assets/alfombra/1.png",
     "description": "Alfombra 130cmx70cm",
