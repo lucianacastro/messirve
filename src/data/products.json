@@ -676,6 +676,45 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 51,
+    "name": "Juego Pictionary",
+    "thumbnail": "/assets/pictionary/1.png",
+    "description": "Juego Pictionary",
+    "price": 2500,
+    "images": [
+      "/assets/pictionary/2.png","/assets/pictionary/3.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 52,
+    "name": "Juego Scrabble",
+    "thumbnail": "/assets/scrabble/1.png",
+    "description": "Juego Scrabble original",
+    "price": 2500,
+    "images": [
+      "/assets/scrabble/2.png","/assets/scrabble/3.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 53,
+    "name": "Juego Taboo",
+    "thumbnail": "/assets/taboo/1.png",
+    "description": "Juego de mesa Taboo",
+    "price": 2500,
+    "images": [
+      "/assets/taboo/2.png","/assets/taboo/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 
 ]
