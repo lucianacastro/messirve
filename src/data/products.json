@@ -342,7 +342,7 @@
     "name": "Potus hydro",
     "thumbnail": "/assets/potus/1.png",
     "description": "Potus hydro",
-    "price": 1500,
+    "price": 900,
     "images": [
       "/assets/potus/3.png", "/assets/potus/2.png", "/assets/potus/4.png"
     ],
@@ -780,6 +780,44 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  }, 
+  {
+    "id": 59,
+    "name": "Planchita Babyliss Pro",
+    "thumbnail": "/assets/planchita/1.png",
+    "description": "Planchita Babyliss Pro EP THECNO (PLACA 25X90 MM) BAB2654EPE",
+    "price": 5000,
+    "images": [
+      "/assets/planchita/2.png","/assets/planchita/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 60,
+    "name": "Pava eléctrica inoxidable Nex",
+    "thumbnail": "/assets/pava/1.png",
+    "description": "Pava eléctrica inoxidable Nex",
+    "price": 4000,
+    "images": [
+      "/assets/pava/2.png","/assets/pava/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 61,
+    "name": "Molinillo de café Nex",
+    "thumbnail": "/assets/pava/1.png",
+    "description": "Molinillo café inoxidable Nex",
+    "price": 2000,
+    "images": [
+      "/assets/molinillo/2.png","/assets/molinillo/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
-
 ]
