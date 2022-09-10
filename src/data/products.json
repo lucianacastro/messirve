@@ -837,26 +837,26 @@
     "id": 63,
     "name": "Maceta Osito",
     "thumbnail": "/assets/macetaOsito/1.png",
-    "description": "Molinillo café inoxidable Nex",
+    "description": "Vendida a Lau.Molinillo café inoxidable Nex",
     "price": 1000,
     "images": [
       "/assets/macetaOsito/1.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
     "id": 64,
     "name": "Maceta Gatito",
     "thumbnail": "/assets/macetaGatito/1.png",
-    "description": "Molinillo café inoxidable Nex",
+    "description": "Vendida a Lau. Molinillo café inoxidable Nex",
     "price": 1000,
     "images": [
       "/assets/macetaGatito/1.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
