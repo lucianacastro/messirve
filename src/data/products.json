@@ -927,11 +927,24 @@
   {
     "id": 70,
     "name": "Alfombra entrada multicolor",
-    "thumbnail": "/assets/perchas/1.png",
+    "thumbnail": "/assets/alfombraMulticolot/1.png",
     "description": "Alfombra para entrada multicolor",
     "price": 2000,
     "images": [
       "/assets/alfombraMulticolot/1.png", "/assets/alfombraMulticolor/2.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 71,
+    "name": "Microscopio Digital",
+    "thumbnail": "/assets/microscopio/1.png",
+    "description": "Alfombra para entrada multicolor",
+    "price": 1500,
+    "images": [
+      "/assets/microscopio/1.png", "/assets/microscopio/2.png"
     ],
     "is_new": false,
     "is_sold":false,
