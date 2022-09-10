@@ -975,5 +975,31 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 74,
+    "name": "Alargue blanco 3 metros",
+    "thumbnail": "/assets/alargue/1.png",
+    "description": "Alargue blanco 3 metros, enchufe chato",
+    "price": 500,
+    "images": [
+      "/assets/alargue/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 75,
+    "name": "Alargue blanco 5 metros",
+    "thumbnail": "/assets/alargue2/1.png",
+    "description": "Alargue blanco 5 metros",
+    "price": 500,
+    "images": [
+      "/assets/alargue2/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 ]
