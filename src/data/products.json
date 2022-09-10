@@ -471,13 +471,13 @@
     "id": 35,
     "name": "Juego de 4 tazas para café con plato",
     "thumbnail": "/assets/tazas/1.png",
-    "description": "Juego de 4 tazas para café con plato color blanco",
+    "description": "Vendido a Ana. Juego de 4 tazas para café con plato color blanco",
     "price": 2500,
     "images": [
       "/assets/tazas/2.png", "/assets/tazas/3.png", "/assets/tazas/4.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -510,13 +510,13 @@
     "id": 38,
     "name": "Florero vidrio Morph",
     "thumbnail": "/assets/florero/1.png",
-    "description": "Florero vidrio Morph com corazones",
+    "description": "Vendido a Ana. Florero vidrio Morph com corazones",
     "price": 750,
     "images": [
       "/assets/florero/2.png", "/assets/florero/3.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
