@@ -119,13 +119,13 @@
     "id": 8,
     "name": "Maceta cerámica 8x7cm - blanco mate",
     "thumbnail": "/assets/maceta1/2.png",
-    "description": "Maceta cerámica 8x7cm - blanco mate",
+    "description": "Vendida a Pau. Maceta cerámica 8x7cm - blanco mate",
     "price": 500,
     "images": [
       "/assets/maceta1/2.png", "/assets/maceta1/1.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -640,15 +640,15 @@
   },
   {
     "id": 48,
-    "name": "Tender alumino",
+    "name": "Tender aluminio",
     "thumbnail": "/assets/tender/1.png",
-    "description": "Tender Ropa Tendedero Aluminio Liviano Plegable De Pie 176cm",
+    "description": "Vendido a Pau. Tender Ropa Tendedero Aluminio Liviano Plegable De Pie 176cm",
     "price": 1500,
     "images": [
       "/assets/tender/1.png","/assets/tender/2.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -811,13 +811,13 @@
     "id": 61,
     "name": "Pava eléctrica inoxidable Nex",
     "thumbnail": "/assets/pava/1.png",
-    "description": "Pava eléctrica inoxidable Nex",
+    "description": "Pava eléctrica inoxidable Nex vendida a Pau",
     "price": 4000,
     "images": [
       "/assets/pava/2.png","/assets/pava/1.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -889,13 +889,13 @@
     "id": 67,
     "name": "Tacho de basura automático",
     "thumbnail": "/assets/tacho/1.png",
-    "description": "Tacho de basura",
+    "description": "Vendido a Mateo. Tacho de basura",
     "price": 1000,
     "images": [
       "/assets/tacho/1.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
