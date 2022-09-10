@@ -715,6 +715,58 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 54,
+    "name": "Plancha Philips easy speed",
+    "thumbnail": "/assets/plancha/1.png",
+    "description": "Plancha Philips Easy Speed. Plancha a vapor, con suela antiadherente, rociador y selector de temperatura. MODELO:GC1022-40",
+    "price": 5000,
+    "images": [
+      "/assets/plancha/2.png","/assets/plancha/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 55,
+    "name": "Quitapelusas Philips",
+    "thumbnail": "/assets/quitapelusas/1.png",
+    "description": "Quitapelusas Philips",
+    "price": 2000,
+    "images": [
+      "/assets/quitapelusas/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 56,
+    "name": "Cortina de baño Ibiza + ganchos",
+    "thumbnail": "/assets/ibiza/1.png",
+    "description": "Cortina de baño Ibiza crudo y gris con ojalillos color plata + ganmchos. 100% gasa de algodon con efecto arrugado",
+    "price": 3500,
+    "images": [
+      "/assets/ibiza/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 57,
+    "name": "Cortina de baño Gibraltar + ganchos",
+    "thumbnail": "/assets/gibraltar/1.png",
+    "description": "Cortina de baño Gibraltar crudo con ojalillos color negro + ganchos. 100% gasa de algodon con efecto arrugado",
+    "price": 3500,
+    "images": [
+      "/assets/gibraltar/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 
 ]
