@@ -850,10 +850,23 @@
     "id": 64,
     "name": "Vela Maceta",
     "thumbnail": "/assets/velaMaceta/1.png",
-    "description": "Vela Maceta",
+    "description": "Vela Maceta nueva, no se prendió nunca. Tiene un perfume muy lindo! Te aromatiza el ambiente donde la pongas.",
     "price": 2000,
     "images": [
       "/assets/velaMaceta/2.png","/assets/velaMaceta/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 65,
+    "name": "Alfombra 130cmx70cm",
+    "thumbnail": "/assets/alfombra/1.png",
+    "description": "Alfombra 130cmx70cm",
+    "price": 2000,
+    "images": [
+      "/assets/alfombra/1.png"
     ],
     "is_new": false,
     "is_sold":false,
