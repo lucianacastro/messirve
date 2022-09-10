@@ -884,5 +884,44 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 67,
+    "name": "Tacho de basura automático",
+    "thumbnail": "/assets/tacho/1.png",
+    "description": "Tacho de basura",
+    "price": 1000,
+    "images": [
+      "/assets/tacho/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 68,
+    "name": "Tacho de verde plástico",
+    "thumbnail": "/assets/tachoVerde/1.png",
+    "description": "Tacho de basura",
+    "price": 1000,
+    "images": [
+      "/assets/tachoVerde/1.png", "/assets/tachoVerde/2.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 69,
+    "name": "Perchas de madera x 10",
+    "thumbnail": "/assets/perchas/1.png",
+    "description": "Perchas de madera. Tenemos STOCK hasta 90 (noventa unidades). $150 cada una.",
+    "price": 1500,
+    "images": [
+      "/assets/perchas/1.png", "/assets/perchas/2.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 ]
