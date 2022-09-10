@@ -151,7 +151,7 @@
       "/assets/maceta3/Screenshot 2022-08-06 at 15.30.33.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -190,7 +190,7 @@
       "/assets/maceta6/Screenshot 2022-08-06 at 15.31.48.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -203,7 +203,7 @@
       "/assets/maceta7/Screenshot 2022-08-06 at 15.23.50.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -399,7 +399,7 @@
       "/assets/cuadro2/1.png", "/assets/cuadro/2.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -637,5 +637,45 @@
     "is_new": false,
     "is_sold": true,
     "is_visible": true
+  },
+  {
+    "id": 48,
+    "name": "Tender alumino",
+    "thumbnail": "/assets/tender/1.png",
+    "description": "Tender Ropa Tendedero Aluminio Liviano Plegable De Pie 176cm",
+    "price": 1500,
+    "images": [
+      "/assets/tender/1.png","/assets/tender/2.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 49,
+    "name": "Plato giratorio decoración torta ",
+    "thumbnail": "/assets/platoTorta/1.png",
+    "description": "Plato Bandeja Giratorio Torta Repostería Con Pie Decorar 28",
+    "price": 600,
+    "images": [
+      "/assets/platoTorta/2.png","/assets/platoTorta/3.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 50,
+    "name": "Juego HDP + 3 expansiones",
+    "thumbnail": "/assets/hdp/1.png",
+    "description": "Juego de cartas H.D.P. Hasta donde puedas Buró + expansión religiones, sexo y hdp2",
+    "price": 2500,
+    "images": [
+      "/assets/hdp/2.png","/assets/hdp/3.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
+
 ]
