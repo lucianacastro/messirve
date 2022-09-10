@@ -941,7 +941,7 @@
     "id": 71,
     "name": "Microscopio Digital",
     "thumbnail": "/assets/microscopio/1.png",
-    "description": "Alfombra para entrada multicolor",
+    "description": "Especificaciones técnicas: • Resolución de imagen: Estándar 640*480. Max 1600x1200 • Formato de imagen: JPEG o BMP • Formato de video: AVI • Aumento: 0x-500x-1000x • Fotogramas por segundo (FPS): 30 máximo • Interfaz: USB • Sistemas compatibles: Windows 7/ 8/ 10/ 11. Linux/ MAC OSX/ Android",
     "price": 1500,
     "images": [
       "/assets/microscopio/1.png", "/assets/microscopio/2.png"
