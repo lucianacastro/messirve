@@ -949,5 +949,18 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 72,
+    "name": "Longboard Skate",
+    "thumbnail": "/assets/microscopio/1.png",
+    "description": "Longboard Skate color blanco 70cm, muy poco uso + rodilleras",
+    "price": 6000,
+    "images": [
+      "/assets/longboard/1.png", "/assets/longboard/2.png", "/assets/longboard/3.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 ]
