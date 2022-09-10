@@ -953,11 +953,24 @@
   {
     "id": 72,
     "name": "Longboard Skate",
-    "thumbnail": "/assets/microscopio/1.png",
+    "thumbnail": "/assets/longboard/1.png",
     "description": "Longboard Skate color blanco 70cm, muy poco uso + rodilleras",
     "price": 6000,
     "images": [
       "/assets/longboard/1.png", "/assets/longboard/2.png", "/assets/longboard/3.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 73,
+    "name": "Zapatilla blanca",
+    "thumbnail": "/assets/zapatilla/1.png",
+    "description": "Zapatilla 50 cm de cable",
+    "price": 500,
+    "images": [
+      "/assets/zapatilla/1.png"
     ],
     "is_new": false,
     "is_sold":false,
