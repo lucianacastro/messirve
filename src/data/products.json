@@ -767,6 +767,19 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 58,
+    "name": "Cepillo Gama secador modelador alisador",
+    "thumbnail": "/assets/cepillo/1.png",
+    "description": "Cepillo Gama Secador Modelador Rizador Alisador Turbo Ionico",
+    "price": 3000,
+    "images": [
+      "/assets/cepillo/2.png","/assets/cepillo/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 
 ]
