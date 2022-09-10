@@ -120,7 +120,7 @@
     "name": "Maceta cerámica 8x7cm - blanca mate",
     "thumbnail": "/assets/maceta1/Screenshot 2022-08-06 at 15.28.50.png",
     "description": "Maceta cerámica 8x7cm - blanca mate",
-    "price": 1000,
+    "price": 500,
     "images": [
       "/assets/maceta1/Screenshot 2022-08-06 at 15.29.00.png"
     ],
@@ -810,11 +810,50 @@
   {
     "id": 61,
     "name": "Molinillo de café Nex",
-    "thumbnail": "/assets/pava/1.png",
+    "thumbnail": "/assets/molinillo/1.png",
     "description": "Molinillo café inoxidable Nex",
     "price": 2000,
     "images": [
       "/assets/molinillo/2.png","/assets/molinillo/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 62,
+    "name": "Maceta Osito",
+    "thumbnail": "/assets/macetaOsito/1.png",
+    "description": "Molinillo café inoxidable Nex",
+    "price": 1000,
+    "images": [
+      "/assets/macetaOsito/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 63,
+    "name": "Maceta Gatito",
+    "thumbnail": "/assets/macetaGatito/1.png",
+    "description": "Molinillo café inoxidable Nex",
+    "price": 1000,
+    "images": [
+      "/assets/macetaGatito/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
+  },
+  {
+    "id": 64,
+    "name": "Vela Maceta",
+    "thumbnail": "/assets/velaMaceta/1.png",
+    "description": "Vela Maceta",
+    "price": 2000,
+    "images": [
+      "/assets/velaMaceta/2.png","/assets/velaMaceta/1.png"
     ],
     "is_new": false,
     "is_sold":false,
