@@ -1001,5 +1001,18 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 76,
+    "name": "Juego de vasos x 6",
+    "thumbnail": "/assets/vasos3/1.png",
+    "description": "Vasos con fondo de color naranjas y amarillos x 6 unidades",
+    "price": 1000,
+    "images": [
+      "/assets/vasos3/1.png", "/assets/vasos3/2.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 ]
