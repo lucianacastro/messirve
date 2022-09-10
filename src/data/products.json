@@ -118,11 +118,11 @@
   {
     "id": 8,
     "name": "Maceta cerámica 8x7cm - blanco mate",
-    "thumbnail": "/assets/maceta1/1",
+    "thumbnail": "/assets/maceta1/2.png",
     "description": "Maceta cerámica 8x7cm - blanco mate",
     "price": 500,
     "images": [
-      "/assets/maceta1/1.png"
+      "/assets/maceta1/2.png", "/assets/maceta1/1.png"
     ],
     "is_new": false,
     "is_sold": false,
@@ -874,12 +874,12 @@
   },
   {
     "id": 66,
-    "name": "Alfombra 130cmx70cm",
-    "thumbnail": "/assets/alfombra/1.png",
-    "description": "Alfombra 130cmx70cm",
-    "price": 2500,
+    "name": "Mochila Juanita Jo",
+    "thumbnail": "/assets/mochila/1.png",
+    "description": "Mochila Juanita Jo",
+    "price": 7000,
     "images": [
-      "/assets/alfombra/1.png"
+      "/assets/mochila/1.png", "/assets/mochila/2.png"
     ],
     "is_new": false,
     "is_sold":false,
