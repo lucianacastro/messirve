@@ -1027,5 +1027,18 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 78,
+    "name": "Alfombra 170cm x 30cm",
+    "thumbnail": "/assets/alfombra/1.png",
+    "description": "Alfombra 170cm x 30cm",
+    "price": 1500,
+    "images": [
+      "/assets/alfombra/1.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 ]
