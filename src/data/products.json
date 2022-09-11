@@ -282,7 +282,7 @@
       "/assets/maceta13/Screenshot 2022-08-06 at 15.43.12.png"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -381,7 +381,7 @@
     "name": "Cuadro abstracto pintado a mano 120x50cm",
     "thumbnail": "/assets/cuadro/1.png",
     "description": "Cuadro abstracto pintado a mano super texturado 120x50cm. Pazos Arte",
-    "price": 6000,
+    "price": 5000,
     "images": [
       "/assets/cuadro/1.png", "/assets/cuadro/2.png"
     ],
