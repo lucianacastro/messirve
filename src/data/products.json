@@ -1014,5 +1014,18 @@
     "is_new": false,
     "is_sold":false,
     "is_visible": true
+  },
+  {
+    "id": 77,
+    "name": "Mancuerna MIR 2kg",
+    "thumbnail": "/assets/mancuerna/1.png",
+    "description": "Mancuerna MIR 2 kilos",
+    "price": 1000,
+    "images": [
+      "/assets/mancuerna/1.png", "/assets/mancuerna/2.png"
+    ],
+    "is_new": false,
+    "is_sold":false,
+    "is_visible": true
   }
 ]
