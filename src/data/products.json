@@ -661,7 +661,7 @@
       "/assets/platoTorta/2.png","/assets/platoTorta/3.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -669,7 +669,7 @@
     "name": "Juego HDP + 3 expansiones",
     "thumbnail": "/assets/hdp/1.png",
     "description": "Juego de cartas H.D.P. Hasta donde puedas Buró + expansión religiones, sexo y hdp2",
-    "price": 2500,
+    "price": 2000,
     "images": [
       "/assets/hdp/2.png","/assets/hdp/3.png"
     ],
@@ -682,7 +682,7 @@
     "name": "Juego Pictionary",
     "thumbnail": "/assets/pictionary/1.png",
     "description": "Juego Pictionary",
-    "price": 2500,
+    "price": 2000,
     "images": [
       "/assets/pictionary/2.png","/assets/pictionary/3.png"
     ],
@@ -695,7 +695,7 @@
     "name": "Juego Scrabble",
     "thumbnail": "/assets/scrabble/1.png",
     "description": "Juego Scrabble original",
-    "price": 2500,
+    "price": 2000,
     "images": [
       "/assets/scrabble/2.png","/assets/scrabble/3.png"
     ],
@@ -708,7 +708,7 @@
     "name": "Juego Taboo",
     "thumbnail": "/assets/taboo/1.png",
     "description": "Juego de mesa Taboo",
-    "price": 2500,
+    "price": 2000,
     "images": [
       "/assets/taboo/2.png","/assets/taboo/1.png"
     ],
@@ -752,7 +752,7 @@
       "/assets/ibiza/1.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -882,7 +882,7 @@
       "/assets/mochila/1.png", "/assets/mochila/2.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -908,7 +908,7 @@
       "/assets/tachoVerde/1.png", "/assets/tachoVerde/2.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -960,7 +960,7 @@
       "/assets/longboard/1.png", "/assets/longboard/2.png", "/assets/longboard/3.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
@@ -1012,7 +1012,7 @@
       "/assets/vasos3/1.png", "/assets/vasos3/2.png"
     ],
     "is_new": false,
-    "is_sold":false,
+    "is_sold":true,
     "is_visible": true
   },
   {
